@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+codes/baseline/outputs/*
+codes/notebooks/output_images/*
+*.npy
