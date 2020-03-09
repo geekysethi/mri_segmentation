@@ -1,9 +1,6 @@
-# mri_segmentation
+# MRI Segmentation using CNN
 
 
-# Audio classification using CNN and LSTM
-
-<!-- Foobar is a Python library for dealing with word pluralization. -->
 
 ## Data Visualization
 
