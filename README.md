@@ -4,7 +4,7 @@
 
 ## Data Visualization
 
-Input Image             |  Ground Truth
+Output Image             |  Ground Truth
 :-------------------------:|:-------------------------:
   <img src="images/image.png" width="150" /> |  <img src="images/ground_truth.png" width="150">
 
